@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/luiztictac.lwc-l69qly0g-fork-l69t5c63",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qX5ttmvX6I083n2M0Hjq --open"
+  }
+}
